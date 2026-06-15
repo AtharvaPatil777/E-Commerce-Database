@@ -45,3 +45,13 @@ A comprehensive SQL-based e-commerce database system designed to manage users, p
 1. **Create Database:**
    ```sql
    source database_schema.sql
+2. **Insert Sample Data:**
+    ```sql
+    source sample_data.sql
+3. **Run Queries:**
+    ```sql
+    source queries.sql
+
+
+
+
