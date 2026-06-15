@@ -51,7 +51,49 @@ A comprehensive SQL-based e-commerce database system designed to manage users, p
 3. **Run Queries:**
     ```sql
     source queries.sql
+    
+💡 Key Queries Explained
+Total Revenue Calculation
+Shows combined revenue from all orders across all products.
 
+Top Selling Products
+Ranks products by total quantity sold to identify best performers.
 
+Customer Purchase History
+Groups orders by user to show spending patterns and loyalty metrics.
 
+Product Categorization
+Classifies products into Premium, Mid-Range, and Budget categories.
+
+🎯 Business Insights
+This database enables:
+
+Revenue tracking and financial reporting
+Customer behavior analysis
+Product performance metrics
+Inventory management insights
+Sales trend identification
+🛠️ Technologies Used
+MySQL/SQL
+Relational Database Design
+SQL JOINs (INNER, LEFT)
+Aggregate Functions (SUM, COUNT, GROUP BY)
+Conditional Logic (CASE WHEN)
+📈 Future Enhancements
+Add customer ratings and reviews table
+Implement order status tracking
+Add payment method information
+Create discount/coupon system
+Add inventory stock levels
+Implement order shipment tracking
+Create customer loyalty program
+📝 SQL Concepts Demonstrated
+✅ CREATE TABLE with constraints
+✅ PRIMARY KEY and FOREIGN KEY relationships
+✅ INSERT statements
+✅ JOIN operations (INNER JOIN)
+✅ Aggregate functions (SUM, COUNT)
+✅ GROUP BY and ORDER BY clauses
+✅ WHERE conditions
+✅ CASE WHEN conditional logic
 
