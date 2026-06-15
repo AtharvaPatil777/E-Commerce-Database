@@ -54,7 +54,7 @@ This project demonstrates:
 
 ---
 
-💡 6 Key Queries
+## 💡 6 Key Queries
 View All Orders - See complete order details with customer and product info
 Total Revenue - Calculate total sales from all orders
 Top Selling Products - Rank products by quantity sold
@@ -63,13 +63,13 @@ Customer Purchase History - Show customer spending patterns
 Product Categories - Categorize products as Premium/Mid-Range/Budget
 
 
-📈 Sample Data
+## 📈 Sample Data
 
 Users: Ruchi, Amit
 Products: Laptop (₹50,000), Mobile (₹20,000), Headphones (₹200)
 Orders: 3 sample orders included
 
-🎯 Business Use Cases
+## 🎯 Business Use Cases
 
 Revenue tracking & financial reporting
 Sales performance analysis
@@ -78,7 +78,7 @@ Inventory management
 Product performance metrics
 Top customer identification
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 Add order status tracking
 Implement payment methods
