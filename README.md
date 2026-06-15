@@ -55,34 +55,34 @@ This project demonstrates:
 ---
 
 ## 💡 6 Key Queries
-View All Orders - See complete order details with customer and product info
-Total Revenue - Calculate total sales from all orders
-Top Selling Products - Rank products by quantity sold
-Orders by User - Find orders from specific customer
-Customer Purchase History - Show customer spending patterns
-Product Categories - Categorize products as Premium/Mid-Range/Budget
+- View All Orders - See complete order details with customer and product info
+- Total Revenue - Calculate total sales from all orders
+- Top Selling Products - Rank products by quantity sold
+- Orders by User - Find orders from specific customer
+- Customer Purchase History - Show customer spending patterns
+- Product Categories - Categorize products as Premium/Mid-Range/Budget
 
 
 ## 📈 Sample Data
 
-Users: Ruchi, Amit
-Products: Laptop (₹50,000), Mobile (₹20,000), Headphones (₹200)
-Orders: 3 sample orders included
+- Users: Ruchi, Amit
+- Products: Laptop (₹50,000), Mobile (₹20,000), Headphones (₹200)
+- Orders: 3 sample orders included
 
 ## 🎯 Business Use Cases
 
-Revenue tracking & financial reporting
-Sales performance analysis
-Customer behavior insights
-Inventory management
-Product performance metrics
-Top customer identification
+✅ Revenue tracking & financial reporting
+✅ Sales performance analysis
+✅ Customer behavior insights
+✅ Inventory management
+✅ Product performance metrics
+✅ Top customer identification
 
 ## 🚀 Future Enhancements
 
-Add order status tracking
-Implement payment methods
-Add discount system
-Customer ratings & reviews
-Inventory stock levels
-Order shipment tracking
+* Add order status tracking
+* Implement payment methods
+* Add discount system
+* Customer ratings & reviews
+* Inventory stock levels
+* Order shipment tracking
